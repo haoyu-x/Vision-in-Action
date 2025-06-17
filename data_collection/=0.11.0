@@ -1,0 +1,3 @@
+Requirement already satisfied: numcodecs in /home/haoyux/miniforge3/envs/via/lib/python3.11/site-packages (0.16.1)
+Requirement already satisfied: numpy>=1.24 in /home/haoyux/miniforge3/envs/via/lib/python3.11/site-packages (from numcodecs) (1.26.4)
+Requirement already satisfied: typing_extensions in /home/haoyux/miniforge3/envs/via/lib/python3.11/site-packages (from numcodecs) (4.14.0)
