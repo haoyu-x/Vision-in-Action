@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 3em;">Vision in Action: Learning Active Perception from Human Demonstrations</h1>
 
 [[Project page]](https://vision-in-action.github.io)
-[[Paper]]()
+[[Paper]](https://arxiv.org/abs/2506.15666)
 
 
 [Haoyu Xiong](https://haoyu-x.github.io/),
