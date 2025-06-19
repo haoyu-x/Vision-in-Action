@@ -1,7 +1,7 @@
 
 ## 3D Printing Guide
 
-### [Shoulder](./shoulder) 
+### [Robot shoulder & neck mount](./shoulder) 
 
 Bambu Lab 3D printer settings:
 
