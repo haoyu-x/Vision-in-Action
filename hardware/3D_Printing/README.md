@@ -1,5 +1,5 @@
 
-## Please find the following STL files for 3D printing:
+##3D Printing Guide
 
 ### [Robot sholder & neck mount](./shoulder) 
 
