@@ -126,3 +126,13 @@ Model training is based on the
 
 If you find this codebase useful, consider citing:
 
+<pre><code>@misc{xiong2025visionactionlearningactive,
+      title={Vision in Action: Learning Active Perception from Human Demonstrations}, 
+      author={Haoyu Xiong and Xiaomeng Xu and Jimmy Wu and Yifan Hou and Jeannette Bohg and Shuran Song},
+      year={2025},
+      eprint={2506.15666},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2506.15666}, 
+}</code></pre>
+
