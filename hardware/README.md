@@ -21,7 +21,7 @@ to assemble the robots (we provide a tabletop option and a mobile manipulation o
 </div>
 
 
-We also provide a [CAD model](https://cad.onshape.com/documents/f26cb6f25e3d003b1ab56544/w/206a9a47e71c9aca35c72a44/e/74605670bc24bf806b5e0395) for the whole hardware design.
+We also provide a [CAD model](https://cad.onshape.com/documents/951998525d476463f1efb51e/w/b2780d22de076298e83182d4/e/f6082bd319984ae6eae6a2e7) for mounting the robot on a fixed base, and a [CAD model](https://cad.onshape.com/documents/8f58e4d0dea1185e58e5b457/w/ee3c6251e79a58f13d68b0f0/e/d2220786c028841c77d56f0b) for mounting the robot on a mobile base ([TidyBot++](https://tidybot2.github.io/)).
 
 <img src="assets/cad.gif" width="25%" />
 
