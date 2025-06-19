@@ -1,11 +1,28 @@
 
-Please find the following STL files for 3D printing:
+## Please find the following STL files for 3D printing:
 
-[Robot sholder mount](./shoulder) (We recommend using 50% infill when printing the shoulder mount)
+### [Robot sholder & neck mount](./shoulder) 
 
-[iPhone mount](./iPhone_mounting)
+Bambu Lab 3D printer settings:
+You can start by loading the 3MF file, which automatically applies all the necessary settings.
+If that doesn't work, load the STL file and follow the detailed settings manually:
 
-[ARX gello](./ARX_gello)
+- **Shoulder Mount.stl**
+  - `Process > Global`
+    - `Support > Enable support`
+  - Right click on part → Add modifier → Load… → `Shoulder Mount Modifier.stl`
+  - `Process > Objects` → Select `Shoulder Mount Modifier.stl`
+    - `Strength > Wall loops`: **8** (default is 2)
+    - `Strength > Top shell thickness`: **5** (default is 1)
+
+- **Neck Mount.stl**
+  - Skip **“Top shell thickness”** modification, follow same process otherwise
+
+
+
+### [iPhone mount](./iPhone_mounting)
+
+### [ARX gello](./ARX_gello)
 
 
 
