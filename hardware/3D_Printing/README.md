@@ -4,8 +4,9 @@
 ### [Robot sholder & neck mount](./shoulder) 
 
 Bambu Lab 3D printer settings:
+
 You can start by loading the 3MF file, which automatically applies all the necessary settings.
-If that doesn't work, load the STL file and follow the detailed settings manually:
+If that doesn't work, load the STL file and follow the detailed settings manually.
 
 - **Shoulder Mount.stl**
   - `Process > Global`
