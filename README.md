@@ -21,7 +21,7 @@
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="cd Vision-in-Action
 mamba env create -f environment.yaml
 mamba activate via">
-<pre><code>cd Vision-in-Action
+<pre><code>cd vision-in-action
 mamba env create -f environment.yaml
 mamba activate via</code></pre>
 </div>
